@@ -1,0 +1,7 @@
+# Auto Claude data directory
+.auto-claude/
+
+
+# Added by cargo
+
+/target

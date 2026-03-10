@@ -1,0 +1,9 @@
+[package]
+name = "ttml2srt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+roxmltree = "0.20"
+clap = { version = "4", features = ["derive"] }
+anyhow = "1"
